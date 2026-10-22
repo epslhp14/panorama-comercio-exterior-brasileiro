@@ -1,4 +1,3 @@
-
 # Panorama do Comércio Exterior Brasileiro | 2020–2025
 
 ### Análise de Dados | SQL | SQLite | Power BI
@@ -116,10 +115,16 @@ O dashboard permite selecionar o ano de referência e explorar os dados por meio
 
 ## 8. Materiais do projeto
 
-- **Relatório PDF:** será disponibilizado na pasta `relatorio/`.
-- **Consultas SQL:** serão disponibilizadas na pasta `sql/`.
-- **Vídeo demonstrativo:** será disponibilizado por link neste repositório.
-- **Imagens do dashboard:** serão disponibilizadas na pasta `imagens/`.
+### Demonstração e resultados
+
+- 🎬 [Assistir ao vídeo demonstrativo](video/Portfolio_Comercio_Exterior_SQL_PowerBI.mp4)
+- 📊 [Visualizar o relatório Power BI em PDF](Panorama_Comercio_Exterior_Brasileiro_2025.pdf)
+- 💻 [Consultar os códigos SQL](sql/)
+- 🗂️ [Documentação das consultas SQL](sql/README.md)
+
+O vídeo demonstra a execução de consultas SQL no SQLite,
+a modelagem dos dados e a navegação pelas três páginas
+do dashboard desenvolvido no Power BI.
 
 ## 9. Competências aplicadas
 
