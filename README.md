@@ -115,16 +115,20 @@ O dashboard permite selecionar o ano de referência e explorar os dados por meio
 
 ## 8. Materiais do projeto
 
-### Demonstração e resultados
+### Vídeo demonstrativo
 
-- 🎬 [Assistir ao vídeo demonstrativo](video/Portfolio_Comercio_Exterior_SQL_PowerBI.mp4)
+[![Assistir à demonstração do projeto](https://img.youtube.com/vi/dm3gn_GoKV8/hqdefault.jpg)](https://youtu.be/dm3gn_GoKV8)
+
+▶️ **[Assistir ao vídeo no YouTube](https://youtu.be/dm3gn_GoKV8)**
+
+Demonstração prática do banco de dados SQLite, execução de consultas SQL no Letos, modelagem relacional e navegação pelas três páginas do dashboard no Power BI.
+
+### Documentação e arquivos
+
 - 📊 [Visualizar o relatório Power BI em PDF](Panorama_Comercio_Exterior_Brasileiro_2025.pdf)
-- 💻 [Consultar os códigos SQL](sql/)
-- 🗂️ [Documentação das consultas SQL](sql/README.md)
-
-O vídeo demonstra a execução de consultas SQL no SQLite,
-a modelagem dos dados e a navegação pelas três páginas
-do dashboard desenvolvido no Power BI.
+- 💻 [Consultar as 14 consultas SQL](sql/)
+- 📚 [Documentação das consultas SQL](sql/README.md)
+- 🎬 [Arquivo MP4 do vídeo](video/Portfolio_Comercio_Exterior_SQL_PowerBI.mp4)
 
 ## 9. Competências aplicadas
 
